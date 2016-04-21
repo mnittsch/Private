@@ -3,6 +3,7 @@ package de.unibremen.pi2.uebung05;
 import java.util.ArrayList;
 
 /**
+ * BLABLA BLA
  * Diese Klasse implementiert den Graphen, welcher
  * zu einem minimal spannenden Baum gemacht werden kann.
  * Die Spezifikationen sind dabei durch das Interface
